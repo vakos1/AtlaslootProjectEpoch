@@ -1120,6 +1120,11 @@ AtlasLoot_Data["EngineeringExplosives1"] = {
 	Back = "ENGINEERINGMENU";
 };
 
+AtlasLoot_Data["EngineeringTrinkets1"] = {
+	{ 1, "s90107", "90106", "", "" };
+	Back = "ENGINEERINGMENU";
+};
+
 AtlasLoot_Data["EngineeringItemEnhancements1"] = {
 	{ 1, "s22793", "18283", "=q3=Biznicks 247x128 Accurascope", "=ds=#sr# 300"};
 	{ 2, "s12620", "10548", "=q1=Sniper Scope", "=ds=#sr# 240"};

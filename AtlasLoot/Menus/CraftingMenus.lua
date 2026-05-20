@@ -63,13 +63,18 @@ local BabbleZone = AtlasLoot_GetLocaleLibBabble("LibBabble-Zone-3.0")
 	AtlasLoot_Data["ENGINEERINGMENU"] = {
 		{ 1, "EngineeringWeapon1", "inv_weapon_rifle_05", "=ds="..BabbleEpoch["Weapons"], "" };
 		{ 2, "EngineeringAmmo1", "inv_ammo_bullet_01", "=ds="..AL["Ammunition"], "" };
+		
 		{ 4, "EngineeringExplosives1", "inv_misc_bomb_05", "=ds="..AL["Explosives"], "" };
 		{ 5, "EngineeringMisc1", "inv_crate_01", "=ds="..AL["Miscellaneous"], "" };
+
 		{ 7, "Gnomish1", "achievement_character_gnome_male", "=ds="..GetSpellInfo(20220), "" };
 		{ 8, "Goblin1", "Achievement_goblinhead", "=ds="..GetSpellInfo(20221), "" };
-		{ 16, "EngineeringArmor1", "inv_helmet_47", "=ds="..BabbleInventory["Armor"], "" };
-		{ 17, "EngineeringItemEnhancements1", "inv_misc_spyglass_02", "=ds="..AL["Item Enhancements"], "" };
-		{ 19, "EngineeringReagents1", "inv_misc_ammo_gunpowder_02", "=ds="..AL["Reagents"], "" };
+
+		{16, "EngineeringArmor1", "inv_helmet_47", "=ds="..BabbleInventory["Armor"], "" };
+		{17, "EngineeringItemEnhancements1", "inv_misc_spyglass_02", "=ds="..AL["Item Enhancements"], "" };
+		{18, "EngineeringTrinkets1", "inv_jewelry_talisman_08", "=ds="..AL["Trinkets"], "" };
+		
+		{20, "EngineeringReagents1", "inv_misc_ammo_gunpowder_02", "=ds="..AL["Reagents"], "" };
 		Back = "CRAFTINGMENU";
 	};
 
