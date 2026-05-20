@@ -1108,18 +1108,19 @@ AtlasLoot_Data["EngineeringExplosives1"] = {
 };
 
 AtlasLoot_Data["EngineeringTrinkets1"] = {
-	{ 1, "s19830", "16022", "=q3=Arcanite Dragonling", "=ds=#sr# 300"};
-	{ 2, "s23082", "18639", "=q3=Ultra-Flash Shadow Reflector", "=ds=#sr# 300"};
-	{ 3, "s86803", "62156", "=q3=Ley-Stabilized Arcane Reflector", "=ds=#sr# 300"};
-	{ 4, "s23081", "18638", "=q3=Hyper-Radiant Flame Reflector", "=ds=#sr# 290"};
-	{ 5, "s23077", "18634", "=q3=Gyrofreeze Ice Reflector", "=ds=#sr# 260"};
-	{ 6, "s63750", "45631", "=q3=High-powered Flashlight", "=ds=#sr# 250"};
-	{ 7, "s12624", "10576", "=q2=Mithril Mechanical Dragonling", "=ds=#sr# 250"};
-	{ 8, "s86813", "62164", "=q2=Revantusk Disguise", "=ds=#sr# 200"};
-	{ 9, "s3952", "4381", "=q2=Minor Recombobulator", "=ds=#sr# 140"};
-	{10, "s9269", "7506", "=q2=Gnomish Universal Remote", "=ds=#sr# 125"};
-	{11, "s3969", "4396", "=q1=Mechanical Dragonling", "=ds=#sr# 200"};
-	{12, "s3971", "4397", "=q1=Gnomish Cloaking Device", "=ds=#sr# 200"};
+	{ 1, "s23082", "18639", "=q3=Ultra-Flash Shadow Reflector", "=ds=#sr# 300"};
+	{ 2, "s86803", "62156", "=q3=Ley-Stabilized Arcane Reflector", "=ds=#sr# 300"};
+	{ 3, "s23081", "18638", "=q3=Hyper-Radiant Flame Reflector", "=ds=#sr# 290"};
+	{ 4, "s23077", "18634", "=q3=Gyrofreeze Ice Reflector", "=ds=#sr# 260"};
+	{ 5, "s63750", "45631", "=q3=High-powered Flashlight", "=ds=#sr# 250"};
+	{ 6, "s86813", "62164", "=q2=Revantusk Disguise", "=ds=#sr# 200"};
+	{ 7, "s3952", "4381", "=q2=Minor Recombobulator", "=ds=#sr# 140"};
+	{ 8, "s9269", "7506", "=q2=Gnomish Universal Remote", "=ds=#sr# 125"};
+	{ 9, "s3971", "4397", "=q1=Gnomish Cloaking Device", "=ds=#sr# 200"};
+
+	{16, "s19830", "16022", "=q3=Arcanite Dragonling", "=ds=#sr# 300"};
+	{17, "s12624", "10576", "=q2=Mithril Mechanical Dragonling", "=ds=#sr# 250"};
+	{18, "s3969", "4396", "=q1=Mechanical Dragonling", "=ds=#sr# 200"};
 	Back = "ENGINEERINGMENU";
 };
 
@@ -1134,7 +1135,6 @@ AtlasLoot_Data["EngineeringItemEnhancements1"] = {
 };
 
 AtlasLoot_Data["EngineeringMisc1"] = {
-	--- TODO: adjust position numbers
 	{ 1, "s85248", "60770", "=q3=Soul Mirror", "=ds=#sr# 300"};
 	{ 2, "s85792", "61907", "=q3=Dark Iron Fishing Pole", "=ds=#sr# 300"};
 	{ 3, "s86380", "62000", "=q2=Thorium Toolbox", "=ds=#sr# 275"};
