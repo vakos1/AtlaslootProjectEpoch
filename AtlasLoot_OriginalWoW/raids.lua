@@ -166,7 +166,7 @@ local BabbleFaction = AtlasLoot_GetLocaleLibBabble("LibBabble-Faction-3.0")
 		
 		{22, 18705, "", "=q4=Mature Black Dragon Sinew", "=ds=#m3#", "" };
 
-		{26, 61808, "", "=q4=Effigy of the Dragon Worshippers", "=ds=#w12#", "", ""};
+		{24, 61808, "", "=q4=Effigy of the Dragon Worshippers", "=ds=#w12#", "", ""};
 		{25, 61804, "", "=q4=Deathbringer", "=ds=#h2#, #w1#", "", ""};
 		{26, 90504, "", "=q4=Roh'umir il Lronash", "=ds=#h3#, #w6#", "", ""};
 		
